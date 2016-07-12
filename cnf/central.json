@@ -1,0 +1,7 @@
+{
+ "revisionRefs":[{
+  "artifactId":"gentyref","baseline":"1.2.0","bsn":"com.googlecode.gentyref__gentyref","created":1413693515000,"description":"Generic type reflection library","groupId":"com.googlecode.gentyref","md5":"E907B55DB6FEACD0BA989F72DEA8D7E3","name":"GenTyRef","phase":"MASTER","revision":"8D776D0A52D707FA29C7449DDD4D102AC7002D6C","size":23161,"tag":"v1.2.0","urls":["http://repo1.maven.org/maven2/com/googlecode/gentyref/gentyref/1.2.0/gentyref-1.2.0.jar"],"version":"1.2.0"
+ },{
+  "artifactId":"udunits","baseline":"4.5.5","bsn":"edu.ucar__udunits","created":1429635985000,"description":"The ucar.units Java package is for decoding and encoding\n    formatted unit specifications (e.g. \"m/s\"), converting numeric values\n    between compatible units (e.g. between \"m/s\" and \"knot\"), and for\n    performing arithmetic operations on units (e.g. dividing one unit by\n    another, raising a unit to a power).","errors":1,"groupId":"edu.ucar","md5":"025FFADF77DE73601443C8262C995DF0","name":"udunits","phase":"MASTER","revision":"D8C8D65ADE13666EEDCF764889C69321C247F153","size":124714,"tag":"v4.5.5","urls":["http://repo1.maven.org/maven2/edu/ucar/udunits/4.5.5/udunits-4.5.5.jar"],"version":"4.5.5"
+ }]
+}

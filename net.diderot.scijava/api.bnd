@@ -1,0 +1,19 @@
+#
+#  API
+#
+
+Bundle-Description: \
+	 API \
+	\
+	${warning;Please update this Bundle-Description in net.diderot.scijava/api.bnd}
+	
+	
+Export-Package:  \
+	net.diderot.scijava.api
+
+Require-Capability: \
+	compile-only
+
+
+-includeresource: {readme.md}
+

@@ -1,0 +1,18 @@
+#
+# 	BUNDLE 
+#
+
+Bundle-Description: \
+	The provider bundle for net.diderot.scijava. \
+	\
+	${warning;Please update this Bundle-Description in net.diderot.scijava/api.bnd}
+	
+Export-Package: \
+	net.diderot.scijava.api,\
+	org.bushe.swing.*,\
+	org.scijava.*
+
+Private-Package:  \
+	net.diderot.scijava.provider
+
+-includeresource: {readme.md}

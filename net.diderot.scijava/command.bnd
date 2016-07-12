@@ -1,0 +1,15 @@
+#
+#  GOGO COMMAND BUNDLE (scijava) 
+#
+
+Bundle-Description: \
+	Provides a command to the Gogo shell. \
+	\
+	${warning;Please update this Bundle-Description in net.diderot.scijava/command.bnd}
+	
+
+Private-Package:  \
+	net.diderot.scijava.command
+	
+	
+-includeresource: {readme.md}

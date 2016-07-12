@@ -1,0 +1,6 @@
+
+-buildpath: jars/imglib2-roi-0.4.2.jar;version=file
+	
+-includeresource: @jars
+
+Export-Package: net.imglib2.*

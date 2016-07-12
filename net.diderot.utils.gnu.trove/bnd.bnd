@@ -1,0 +1,7 @@
+
+
+-buildpath: jars/trove4j-3.0.3.jar;version=file
+	
+-includeresource: @jars
+
+Export-Package: gnu.trove.*

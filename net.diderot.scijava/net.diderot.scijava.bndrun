@@ -1,0 +1,15 @@
+#
+# 	LAUNCH SPECIFICATION 
+#
+
+
+Bundle-Version:				1.0.0.${tstamp}
+Bundle-SymbolicName:		net.diderot.scijava.launch
+JPM-Command:				scijava
+
+
+-runrequires:  \
+	osgi.identity;filter:='(osgi.identity=net.diderot.scijava.provider)',\
+	osgi.identity;filter:='(osgi.identity=net.diderot.scijava.command)'
+
+-runbundles: ${error;You must first resolve this bndrun file before you can run it}
